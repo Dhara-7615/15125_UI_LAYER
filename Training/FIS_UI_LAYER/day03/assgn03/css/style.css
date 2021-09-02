@@ -1,0 +1,34 @@
+a:link, a:visited {
+    color:white#fb6542;
+}
+body{
+  background-color: #F5E8C7;  
+  font-family: Verdana;
+}
+section{
+    background-color: #6F4C5B;
+    color : white;
+    width:750px;
+    height : 330px;
+    padding: 20px 20px 20px 20px;
+    margin : 10px 50px 50px 230px;
+    text-align: justify;
+    border: 4px #9E7777 solid;
+}
+.b{
+    text-align: center;
+    font-size: larger;
+    
+}
+header{
+    margin : 30px 50px 0px 500px;
+    color:#6F4C5B;
+    font-family: Brush Script MT;
+    font-size: larger;
+    text-decoration:  underline ;
+    ;
+}
+a:hover{
+ font-size: large;
+};
+
