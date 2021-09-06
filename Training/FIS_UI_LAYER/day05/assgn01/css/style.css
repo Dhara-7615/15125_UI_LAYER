@@ -1,0 +1,16 @@
+body{
+    background-color: #212121;
+    font-family: 'Nunito', sans-serif;
+    font-size: medium;
+}  
+nav{
+    background-color:#14FFEC ;
+}
+.container{
+    margin:20px 20px 20px 20px;
+    line-height: 1.5;
+}
+.container-fluid{
+    margin: 20px 120px 20px 20px;
+    line-height: 1.5;
+}
